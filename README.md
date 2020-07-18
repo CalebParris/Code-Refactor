@@ -40,4 +40,4 @@ In this first homework, the goal was to recaftor a website in order to make the 
 * Changed the name of the repository to Code-Refactor
 * Added the id's back to lines 29, 36, and 43 <br/>
 https://calebparris.github.io/Code-Refactor/ <br/>
-![Screenshot of Website](images/Code-Refactor.png)
+![Screenshot of Website](assets/images/Code-Refactor.png)
