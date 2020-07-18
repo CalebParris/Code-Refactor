@@ -35,3 +35,7 @@ In this first homework, the goal was to recaftor a website in order to make the 
 * Removed the closing tag on line 68
 * Removed the class from line 74 and changed the tag to footer
 * Changed line 75 to the h4 tag
+
+## Corrections after grading
+* Changed the name of the repository to Code-Refactor
+* Added the id's back to lines 29, 36, and 43
