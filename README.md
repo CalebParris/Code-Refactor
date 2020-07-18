@@ -1,4 +1,4 @@
-# Homework-01
+# Code Refactor
 
 In this first homework, the goal was to recaftor a website in order to make the code more accessible. I have included below the steps I took to refactor this website.
 
